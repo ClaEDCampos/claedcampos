@@ -103,7 +103,7 @@ Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. 
 <br>
 <br>
 ---
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
 <img 
@@ -122,3 +122,4 @@ Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. 
 />
 
 </p>
+-->
