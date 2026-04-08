@@ -2,7 +2,7 @@
 
 >**`Desenvolvedor BackEnd`**
 
-Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. Curso atualmente licenciatura em computação pelo IFPI. Sou um amante da tecnologia e todos os conhecimentos que estou adquirindo compartilho no meu canal do Youtube: "[Kionninho](https://www.youtube.com/@kionninho)"(nickname), por lá tento passar o conhecimento adquirido misturando educação com humor, também faço parte de uma startup de tecnologia,encontrada no perfil do instagram "[DEVS](https://www.instagram.com/os_deeevs/)".
+Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. Graduando em computação pelo IFPI. Sou um amante da tecnologia e todos os conhecimentos que estou adquirindo compartilho no meu canal do Youtube: "[Kionninho](https://www.youtube.com/@kionninho)"(nickname), por lá tento passar o conhecimento adquirido misturando educação com humor, também faço parte de uma startup de tecnologia,encontrada no perfil do instagram "[DEVS](https://www.instagram.com/os_deeevs/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@kionninho?sub_confirmation=1">
@@ -103,7 +103,7 @@ Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. 
 <br>
 <br>
 ---
-<!--### 📊 Estatísticas
+📊 Estatísticas
 
 <p>
 <img 
@@ -122,4 +122,3 @@ Me chamo Cláudio Emanuel Dantas Campos tenho 21 anos e sou de Teresina Piauí. 
 />
 
 </p>
--->
